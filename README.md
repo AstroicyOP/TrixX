@@ -1,13 +1,8 @@
 <p align='center'>Code no longer being updated here!<p>
 
-<p align='center'><a href = "https://discord.gg/RqKvY5MQgb" target = "_blank"><img src = "https://img.shields.io/discord/922112505625600020?color=blue&label=Support%20Server&style=for-the-badge">
-</a></p>
+<p align='center'>We aren't hosting this code any more and you can't get help to host this bot!<p>
 
-<p align='center'><a href="https://top.gg/bot/919314151535419463">
-  <img src="https://top.gg/api/widget/919314151535419463.svg">
-</a></p>
-
-# Hey, I am Trixx. A Bot which works with Prefixed Commands! [Discord Server]([https://dsc.gg/yukibo](https://discord.gg/F2JGrrsag2)t) me now
+# Hey, I am Trixx. A Bot which works with Prefixed Commands! [Discord Server](https://discord.gg/F2JGrrsag2)t) me now
 
 
 
