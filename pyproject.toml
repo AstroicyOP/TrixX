@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "Trixx"
+version = "0.1.0"
+description = ""
+authors = ["Navigator and Ayra Goldengolden@alphaesport.com"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+Flask = "^2.0.2"
+youtube_dl = "^2021.12.17"
+colorama = "^0.4.4"
+whois = "^0.9.15"
+pycord = "^0.1.1"
+Pynac = "^0.9.7"
+PyNaCl = "^1.5.0"
+phonenumbers = "^8.12.50"
+SQLAlchemy = "^1.4.39"
+psutil = "^5.9.1"
+clashapi = "^1.4"
+"coc.py" = "^2.0.1"
+qrcode = "^7.3.1"
+brawlstats = "^4.1.1"
+emoji = "^2.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

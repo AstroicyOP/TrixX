@@ -1,0 +1,17 @@
+@client.command(aliases=['brawlerinfo-'])
+async def brawleri(ctx):
+  embed=discord.Embed(title="", description="All info on ", color=0x)
+  embed.set_image(url="")
+  embed.set_thumbnail(url="")
+  embed.add_field(name="**<:Info:901525872878706778> General info**", value="", inline=False)
+  embed.add_field(name="**<:level:952550896917696552> Trait**", value="", inline=False)
+  embed.add_field(name="**<:Attack:901525850778918955> Attack - **", value="", inline=True)
+  embed.add_field(name="<:Super:901525862900441179> **Super - '**", value="", inline=True)
+  embed.add_field(name="**Gadgets & Starpowers**", value="List of additional abilities when reaching Power 7 or Power 9", inline=False)
+  embed.add_field(name="<:Gadget_Filler:901434010385928203> Gadget - ", value="", inline=True)
+  embed.add_field(name="<:Gadget_Filler:901434010385928203> Gadget - ", value="", inline=True)
+  embed.add_field(name="<:Star_Power_Filler:901524938341638194> Starpower - ", value="", inline=True)
+  embed.add_field(name="<:Star_Power_Filler:901524938341638194> Starpower - ", value="", inline=True)
+  embed.set_footer(text="CC: Navigator")
+  
+  await ctx.send(embed=embed)
