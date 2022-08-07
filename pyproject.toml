@@ -2,7 +2,8 @@
 name = "Trixx"
 version = "0.1.0"
 description = ""
-authors = ["Navigator and Ayra Goldengolden@alphaesport.com"]
+authors = ["Navigator and Ayra Golden golden@alphaesport.com"]
+licence = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
