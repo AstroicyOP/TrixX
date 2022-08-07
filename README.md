@@ -2,7 +2,7 @@
 
 <p align='center'>We aren't hosting this code any more and you can't get help to host this bot!<p>
 
-# Hey, I am Trixx. A Bot which works with Prefixed Commands! [Discord Server](https://discord.gg/F2JGrrsag2)t) me now
+# Hey, I am Trixx. A Bot which works with Prefixed Commands! [Discord Server](https://discord.gg/F2JGrrsag2) me now
 
 
 
