@@ -38,7 +38,7 @@ Change the following:
 
 ## Note!
 
-* Trixx code work until 30th august due fact that discord want all bot in slash commands, you can make it bot has private bot so you can use prefix commands, discord api making changes, otherwise you will see ![image](https://user-images.githubusercontent.com/109760180/183305594-81c73c3e-ae66-4594-b4fc-30ace0a230c7.png)
+* Trixx code work until 30th august due fact that discord want all bot in slash commands, you can make it bot has private bot so you can use prefix commands, discord api making changes. Fater 30th august public non slash bot can be viwed like this: ![image](https://user-images.githubusercontent.com/109760180/183305594-81c73c3e-ae66-4594-b4fc-30ace0a230c7.png)
 
 
 ## Built With
