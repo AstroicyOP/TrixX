@@ -40,6 +40,22 @@ Change the following:
 
 * I recommend you do not try to install the whole code and copy it, since certain things here and there are not really defined, for example, token. Also the code will not work after 30th august. Some variables are stored in env files, so you might get a lot of undefined errors. You can copy the code of specific sections you want, but copying, say, the error handler will probably give you a lot of errors and not help you learn anything. Anyways you can self host it as public bot until 30th august after that you need to make the bot as private.
 
+## Features 
+
+-  Check mark is for openn source code features.
+- X mark is for non open source code features, it's only used on public bot.
+- We have carl bot functions but some of it's are private.
+
+| Open Source | Supported          |
+| ------- | ------------------ |
+| General | :white_check_mark: |
+| Logging Chats And Everything At Once  | :x:                |
+|  Moderation | :white_check_mark: |
+| Autoroles command  | :x:                |
+| Modrole clear command:  | :x:                |
+
+
+
 ## Note!
 
 * Trixx code work until 30th august due fact that discord want all bot in slash commands, you can make it bot has private bot so you can use prefix commands, discord api making changes. Fater 30th august public non slash bot can be viwed like this: ![image](https://user-images.githubusercontent.com/109760180/183305594-81c73c3e-ae66-4594-b4fc-30ace0a230c7.png)
