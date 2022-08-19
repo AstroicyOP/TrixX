@@ -2,5 +2,6 @@
 
 - Added Ayra's api | Now you can run whole project without any faliure.
 - Cleard bugs.
-- Edited readme.md | Otherwise they you can't get anything to learn.
-- Breh4Ever
+- Edited readme.md | Otherwise you can't get anything to learn.
+- Breh4Ever.
+- Main.py edited | IDK y i edited but edited
