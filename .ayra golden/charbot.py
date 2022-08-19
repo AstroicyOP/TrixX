@@ -30,7 +30,7 @@ class MyClient(discord.Client):
         }
 
     def query(self, payload):
-        """
+        """ 
         make request to the Hugging Face model API
         """
         data = json.dumps(payload)
