@@ -1,3 +1,5 @@
+# Imports to downalod
+# pip install... # In shell
 import requests
 import discord
 from discord.ext import commands, tasks
@@ -10,18 +12,22 @@ import json
 import whois
 
 
-
+# Breh don't change this or bot won't work, it's connected with trixx.
 os.chdir("/home/runner/TrixX/")
 
-
+# Change prefix here (prefix per server isn't enabled) 
 client = commands.Bot(command_prefix = '*', intents=discord.Intents.all(), case_insensitive=True)
 
+# Kepp at is it.
 client.remove_command('help')
 
+# Kepp at is it.
 @client.event
 async def on_ready():
   changestatus.start()
   print('Proceeding as {0.user}'.format(client))
+
+# General Commands
 
 @client.command()
 async def ping(ctx):
@@ -1569,23 +1575,7 @@ async def remove(ctx):
         embed.add_field(name="Error", value="Account not registered. $save #<tag> to save your brawl stars account.")
         await ctx.send(embed=embed)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# For self hosting
 keep_alive.keep_alive()
 client.run(os.getenv('token4')) 
+
