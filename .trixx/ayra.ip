@@ -1,0 +1,2 @@
+ayra.ip = None
+ayra.db = None # Put the code if you own an api (request from TRIXX SERVER API)
