@@ -12,3 +12,11 @@
 
 - Re-worked Ayra Golden directory.
 - Detailed all functions. 
+
+# Changelog of 24/08/2022 14:28 CET
+
+- Changed into Somecord || Discord.py sucks that's why changing into my own python lib, somecord has basic functions, eaay to use. Don't forget to install it via github.
+# For Unix systems
+python3 -m pip install git+https://github.com/astroicyop/Somecord 
+- Bug are fixed.
+- We are sorry to say as we changed into somecord some commands are broken like braawlerinfo... if you don't want somecord has lib anyways you can remove it by using pip uninstall somecord or python3 -m pip uninstall git+https://github.com/astroicyop/Somecord  also remove from main.py from import.
