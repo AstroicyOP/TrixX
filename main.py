@@ -10,7 +10,7 @@ from itertools import cycle
 from requests import get
 import json
 import whois
-
+import somecord
 
 # Breh don't change this or bot won't work, it's connected with trixx.
 os.chdir("/home/runner/TrixX/")
