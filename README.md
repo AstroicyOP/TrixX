@@ -1,16 +1,16 @@
-<p align='center'>Code no longer being updated here!<p>
+<p align='center'>Code no longer being updated here!</p>
 
-<p align='center'>We aren't hosting this code any more and you can't get help to host this bot!<p>
+<p align='center'>We are no longer hosting this code, and support for hosting this bot is unavailable.</p>
 
-# Hey, I am Trixx. A Bot which works with Prefixed Commands! [Discord Server](https://discord.gg/F2JGrrsag2) me now
+# Trixx - A Bot with Prefixed Commands
 
+Join our [Discord Server](https://discord.gg/F2JGrrsag2) for more information.
 
+## Installation
 
-## Installing the files
+• You can either fork this repository or download the zip file directly.
 
-• You can either fork this repo or just download the zip.
-
-• You can ever use `git clone https://github.com/AstroicyOP/Trixx` 
+• Alternatively, use the following command to clone the repository: `git clone https://github.com/AstroicyOP/Trixx`
 
 ## Prerequisites
 
@@ -18,73 +18,38 @@
 
 • Java LTS 11+
 
-• Check out the `requirements.txt` and install all the pakages. Use `pip install -r requirements.txt` to install them
+• Install the required packages listed in `requirements.txt` using the command: `pip install -r requirements.txt`
 
-• Make sure you have the [Lavalink.jar](https://github.com/freyacodes/Lavalink/releases) file and the [application.yml](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example) file too
+• Download the [Lavalink.jar](https://github.com/freyacodes/Lavalink/releases) and the [application.yml](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example) file.
 
-## Getting Started!
+## Getting Started
 
-Change the following:
+• Ensure that the `main.db` file is located in the `data/databases.js` directory.
 
-• Make sure you have the `main.db` file in the `data/databases.js` directory
+• Create a `config.py` file in the main directory with your [GIPHY](https://developers.giphy.com/) API key, your bot's [TOKEN](https://discord.com/developers/applications), and your bot's [top.gg](https:/top.gg) TOKEN.
 
-• A `config.py` file in the main directory with your [GIPHY](https://developers.giphy.com/) api key, your bot's [TOKEN](https://discord.com/developers/applications) and your bot's [top.gg](https:/top.gg) TOKEN 
+* Rename all example files to their respective names.
 
-* Don't forget to rename all examples files to thier name.
+## Running the Bot
 
-# Running the bot
+* Execute the bot using `python3 main.py`.
 
-* Use `python3 main.py` and you are good to go!
+## Self-Hosting
 
-# Self Hosting
-
-* I recommend you do not try to install the whole code and copy it, since certain things here and there are not really defined, for example, token. Also the code will not work after 30th august. Some variables are stored in env files, so you might get a lot of undefined errors. You can copy the code of specific sections you want, but copying, say, the error handler will probably give you a lot of errors and not help you learn anything. Anyways you can self host it as public bot until 30th august after that you need to make the bot as private.
+* It is not recommended to install and copy the entire codebase, as certain elements, such as the token, are not clearly defined. Additionally, the code will cease to function after August 30th. Variables stored in environment files may lead to undefined errors. You may copy specific sections of the code, but using components like the error handler may result in errors and hinder learning. You can host the bot as a public bot until August 30th; after that, it will need to be set to private.
 
 ## Features 
 
--  Check mark is for openn source code features.
-- X mark is for non open source code features, it's only used on public bot.
-- We have carl bot functions but some of it's are private.
+- ✔️ Open source code features.
+- ❌ Non-open source features, used only in the public bot.
+- Includes some functionalities similar to Carl-bot, with certain features remaining private.
 
-| Open Source | Supported          |
-| ------- | ------------------ |
-| General | :white_check_mark: |
-| Logging Chats And Everything At Once  | :x:                |
-|  Moderation | :white_check_mark: |
-| Autoroles command  | :x:                |
-| Modrole clear command:  | :x:                |
+| Feature                         | Status             |
+| -------------------------------- | ------------------  |
+| General                          | :white_check_mark: |
+| Logging Chats and Everything at Once | :x:            |
+| Moderation                       | :white_check_mark: |
+| Autoroles Command                | :x:                |
+| Modrole Clear Command            | :x:                |
 
-# Licence
-```
-MIT License
-
-Copyright (c) 2022 Astroicy - Navigator
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-
-## Note!
-
-* Trixx code work until 30th august due fact that discord want all bot in slash commands, you can make it bot has private bot so you can use prefix commands, discord api making changes. Fater 30th august public non slash bot can be viwed like this: ![image](https://user-images.githubusercontent.com/109760180/183305594-81c73c3e-ae66-4594-b4fc-30ace0a230c7.png)
-
-
-## Built With
-
-[Discord.py]([https://github.com/Pycord-Development/pycord](https://github.com/Rapptz/discord.py)) - The main API I used to connect to Discord.
+## License
